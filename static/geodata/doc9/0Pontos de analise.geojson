@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Pontos de analise",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "1", "description": "Afloramentos ponto central Parcela 1", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.131863888888889, 40.804108333333332, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "2", "description": "Afloramentos ponto central Parcela 2", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.130747222222222, 40.804841666666661, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "3", "description": "Afloramentos ponto central Parcela 3", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.128266666666667, 40.805838888888893, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "4", "description": "Afloramentos ponto central Parcela 4", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.125802777777778, 40.80810833333333, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "5", "description": "Afloramentos ponto central Parcela 5", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.11836388888889, 40.809827777777777, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "6", "description": "Afloramentos ponto central Parcela 6", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.126205555555556, 40.81055, 0.0 ] } }
+]
+}

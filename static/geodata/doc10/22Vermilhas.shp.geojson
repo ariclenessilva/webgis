@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vermilhas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "clareira", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "IDProp": null, "IDUP": null, "IDUO": null, "AreaHa": null, "IDGeralUO": null, "AreaUO": null, "Estrato": null, "Formacao": null, "Ocupacao": null, "EspeciePri": null, "DataPlanta": null, "DataUltimo": null, "Rotacao": null, "DataRotaca": null, "EspecieSec": null, "EspecieDis": null, "Funcao": null, "TipoHabita": null, "SubtiposHa": null, "Terrenos": null, "Dono__s_": null, "AREA": null, "PERIMETER": null, "Docs": null, "descriptio": null, "FolderPath": null, "SymbolID": null, "AltMode": null, "Base": null, "Clamped": null, "Extruded": null, "Snippet": null, "PopupInfo": null, "Shape_Leng": null, "BUFF_DIST": null, "ORIG_FID": null, "altitudeMo": null, "id": null }, "geometry": { "type": "Point", "coordinates": [ -8.137937593525269, 40.650748003704763 ] } }
+]
+}

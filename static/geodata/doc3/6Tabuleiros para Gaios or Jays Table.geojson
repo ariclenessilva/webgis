@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Tabuleiros para Gaios or Jays Table",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "1", "description": "- Zona Este, no caminho entre o eucaliptal: sem registos e com reposição a cada mês, sensivelmente.\n\nDados do ponto de situação 2019", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.134562876968745, 40.803496513532558, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "2", "description": "- Zona central, na faixa de contenção entre o 2º e 3º fogo controlado: época 2018\/2019 sem registos, com reposição regular de bolotas (a cada 3 semanas); época 2019\/2020 com os mesmos resultados.\n\nDados ponto de situação 2019", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.127183707752884, 40.803861517011939, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "3", "description": "- Zona Oeste, próximo da faixa de contenção do 1º fogo controlado: na época 2018\/2019 sem registos na camara de fotoarmadilhagem e com reposição de bolotas insuficiente; na época de 2019\/2020 com os mesmos resultados.\n\nDados ponto de situação 2019", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.119792785345822, 40.808802644506088, 0.0 ] } }
+]
+}

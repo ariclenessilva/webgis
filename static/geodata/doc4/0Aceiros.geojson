@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Aceiros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Aceiro - Linha de média tensão", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -8.113452002367907, 40.911152797562181, 0.0 ], [ -8.111384977277655, 40.909231450726367, 0.0 ], [ -8.108015726241508, 40.908831798305982, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Aceiro - linha de média tensão", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -8.111312351940841, 40.909176866823991, 0.0 ], [ -8.114506983902158, 40.906992690800713, 0.0 ], [ -8.115793747938023, 40.905914055778922, 0.0 ], [ -8.117905927788655, 40.90395471340149, 0.0 ] ] } }
+]
+}

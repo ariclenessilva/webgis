@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Acessos (#3)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Entrada propriedade Costa Bacelo", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.157433356316602, 40.928575665627861 ] } },
+{ "type": "Feature", "properties": { "Name": "Manutenção de acessos", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.16640135058144, 40.932133404226882 ] } },
+{ "type": "Feature", "properties": { "Name": "Manutenção de acessos", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -8.170625467938788, 40.931944329255643 ] } }
+]
+}

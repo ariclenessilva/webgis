@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AcoesAcoes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Engenharia natural", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -8.110566441467533, 40.906869794299787 ], [ -8.110313721478208, 40.906674465818043 ], [ -8.110243264429103, 40.906644288798333 ], [ -8.110217476449591, 40.906687094418061 ], [ -8.110436709553262, 40.906882826450037 ], [ -8.110702332197533, 40.907145595993832 ], [ -8.110774947819499, 40.907097443700152 ], [ -8.110566441467533, 40.906869794299787 ] ] ] } }
+]
+}
